@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BCReactEmplyeeDirectory/static/css/main.a63bf79a.chunk.css",
+    "main.js": "/BCReactEmplyeeDirectory/static/js/main.df67e726.chunk.js",
+    "main.js.map": "/BCReactEmplyeeDirectory/static/js/main.df67e726.chunk.js.map",
+    "runtime-main.js": "/BCReactEmplyeeDirectory/static/js/runtime-main.15edc7a5.js",
+    "runtime-main.js.map": "/BCReactEmplyeeDirectory/static/js/runtime-main.15edc7a5.js.map",
+    "static/js/2.8e884eb2.chunk.js": "/BCReactEmplyeeDirectory/static/js/2.8e884eb2.chunk.js",
+    "static/js/2.8e884eb2.chunk.js.map": "/BCReactEmplyeeDirectory/static/js/2.8e884eb2.chunk.js.map",
+    "index.html": "/BCReactEmplyeeDirectory/index.html",
+    "precache-manifest.3497046c74007ea7122441af4cdf4fe1.js": "/BCReactEmplyeeDirectory/precache-manifest.3497046c74007ea7122441af4cdf4fe1.js",
+    "service-worker.js": "/BCReactEmplyeeDirectory/service-worker.js",
+    "static/css/main.a63bf79a.chunk.css.map": "/BCReactEmplyeeDirectory/static/css/main.a63bf79a.chunk.css.map",
+    "static/js/2.8e884eb2.chunk.js.LICENSE.txt": "/BCReactEmplyeeDirectory/static/js/2.8e884eb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15edc7a5.js",
+    "static/js/2.8e884eb2.chunk.js",
+    "static/css/main.a63bf79a.chunk.css",
+    "static/js/main.df67e726.chunk.js"
+  ]
+}
