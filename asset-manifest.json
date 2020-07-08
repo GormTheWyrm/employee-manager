@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BCReactEmplyeeDirectory/static/css/main.a63bf79a.chunk.css",
-    "main.js": "/BCReactEmplyeeDirectory/static/js/main.df67e726.chunk.js",
-    "main.js.map": "/BCReactEmplyeeDirectory/static/js/main.df67e726.chunk.js.map",
-    "runtime-main.js": "/BCReactEmplyeeDirectory/static/js/runtime-main.15edc7a5.js",
-    "runtime-main.js.map": "/BCReactEmplyeeDirectory/static/js/runtime-main.15edc7a5.js.map",
-    "static/js/2.8e884eb2.chunk.js": "/BCReactEmplyeeDirectory/static/js/2.8e884eb2.chunk.js",
-    "static/js/2.8e884eb2.chunk.js.map": "/BCReactEmplyeeDirectory/static/js/2.8e884eb2.chunk.js.map",
-    "index.html": "/BCReactEmplyeeDirectory/index.html",
-    "precache-manifest.3497046c74007ea7122441af4cdf4fe1.js": "/BCReactEmplyeeDirectory/precache-manifest.3497046c74007ea7122441af4cdf4fe1.js",
-    "service-worker.js": "/BCReactEmplyeeDirectory/service-worker.js",
-    "static/css/main.a63bf79a.chunk.css.map": "/BCReactEmplyeeDirectory/static/css/main.a63bf79a.chunk.css.map",
-    "static/js/2.8e884eb2.chunk.js.LICENSE.txt": "/BCReactEmplyeeDirectory/static/js/2.8e884eb2.chunk.js.LICENSE.txt"
+    "main.css": "/employee-manager/static/css/main.a63bf79a.chunk.css",
+    "main.js": "/employee-manager/static/js/main.09e19b08.chunk.js",
+    "main.js.map": "/employee-manager/static/js/main.09e19b08.chunk.js.map",
+    "runtime-main.js": "/employee-manager/static/js/runtime-main.c29bb6ae.js",
+    "runtime-main.js.map": "/employee-manager/static/js/runtime-main.c29bb6ae.js.map",
+    "static/js/2.8e884eb2.chunk.js": "/employee-manager/static/js/2.8e884eb2.chunk.js",
+    "static/js/2.8e884eb2.chunk.js.map": "/employee-manager/static/js/2.8e884eb2.chunk.js.map",
+    "index.html": "/employee-manager/index.html",
+    "precache-manifest.f3253f5cd4f42134588b7a1d3d88362a.js": "/employee-manager/precache-manifest.f3253f5cd4f42134588b7a1d3d88362a.js",
+    "service-worker.js": "/employee-manager/service-worker.js",
+    "static/css/main.a63bf79a.chunk.css.map": "/employee-manager/static/css/main.a63bf79a.chunk.css.map",
+    "static/js/2.8e884eb2.chunk.js.LICENSE.txt": "/employee-manager/static/js/2.8e884eb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.15edc7a5.js",
+    "static/js/runtime-main.c29bb6ae.js",
     "static/js/2.8e884eb2.chunk.js",
     "static/css/main.a63bf79a.chunk.css",
-    "static/js/main.df67e726.chunk.js"
+    "static/js/main.09e19b08.chunk.js"
   ]
 }
