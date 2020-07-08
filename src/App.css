@@ -15,13 +15,14 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 10px 10px ;
 }
 
 .App-link {
@@ -36,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+.main-background{
+
+  background-color: rgb(17, 31, 31);
+  /* color is for testing purposes */
+  color: white;
+  min-height: 85vh;
+  padding: 10px;
+  /* may want to change this */
+}
+body{background-color: #282c34;}
